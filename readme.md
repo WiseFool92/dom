@@ -1,6 +1,6 @@
 # dom
 
-#### Git, HTML, Bootstrap, md, CSS, js, jQuery Exercise for Epicodus, 03.24.2020
+#### DOM Exercise for Epicodus, 03.24.2020
 
 #### By Nathan W-H
 
@@ -24,11 +24,7 @@ Email: watkins92@gmail.com
 ## Technologies Used
 
 HTMl
-CSS
-Bootstrap
-md
 js
-jQuery
 
 ### License
 
